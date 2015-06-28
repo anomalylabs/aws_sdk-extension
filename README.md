@@ -1,1 +1,3 @@
-# aws_sdk-extension
+# AWS SDK
+
+Use Amazon Web Services in your Streams Platform projects.

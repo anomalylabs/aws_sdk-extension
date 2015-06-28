@@ -1,7 +1,7 @@
 {
     "name": "anomaly/aws_sdk-extension",
     "type": "streams-addon",
-    "description": "AWS SDK for PHP - Use Amazon Web Services in your Streams Platform project",
+    "description": "Use Amazon Web Services in your Streams Platform projects.",
     "authors": [
         {
             "name": "AnomalyLabs",
