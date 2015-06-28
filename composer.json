@@ -9,15 +9,18 @@
         }
     ],
     "require": {
-        "aws/aws-sdk-php": "3.0.*"
+        "aws/aws-sdk-php": "3.0.*",
+        "mtdowling/jmespath.php": "2.2.*"
     },
     "autoload": {
         "psr-4": {
             "Anomaly\\AwsSdkExtension\\": "src/",
-            "Aws\\": "vendor/aws/aws-sdk-php/src/"
+            "Aws\\": "vendor/aws/aws-sdk-php/src/",
+            "JmesPath\\": "vendor/mtdowling/jmespath.php/src/"
         },
         "files": [
-            "vendor/aws/aws-sdk-php/src/functions.php"
+            "vendor/aws/aws-sdk-php/src/functions.php",
+            "vendor/mtdowling/jmespath.php/src/JmesPath.php"
         ]
     }
 }
