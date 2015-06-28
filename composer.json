@@ -15,6 +15,9 @@
         "psr-4": {
             "Anomaly\\AwsSdkExtension\\": "src/",
             "Aws\\": "vendor/aws/aws-sdk-php/src/"
-        }
+        },
+        "files": [
+            "vendor/aws/aws-sdk-php/src/functions.php"
+        ]
     }
 }
