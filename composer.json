@@ -1,7 +1,7 @@
 {
     "name": "anomaly/aws_sdk-extension",
     "type": "streams-addon",
-    "description": "Use Amazon Web Services in your Streams Platform projects.",
+    "description": "Easily integrate Amazon Web Services in your Streams Platform projects.",
     "authors": [
         {
             "name": "AnomalyLabs",

@@ -1,3 +1,3 @@
 # AWS SDK
 
-Use Amazon Web Services in your Streams Platform projects.
+Easily integrate Amazon Web Services in your Streams Platform projects.
